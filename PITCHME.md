@@ -14,8 +14,10 @@ paginate: true
 
 - 7-day summer intensive
 - Focus: **Computer Hardware + Electronics**
-- Designed for **high school teachers**
+- Designed for **high school**
 - Hands-on, project-based learning
+
+![bg right](assets/multimeter-usage.jpeg)
 
 ---
 
@@ -49,18 +51,15 @@ paginate: true
 # Pedagogical Approach
 
 - Learning by **discovery**
-- Build intuition through **projects**
-- Reflect on:
-  - What worked?
-  - What confused students?
-  - How to adapt lessons
+- Build intuition through **hands-on projects**
+
+![bg right](assets/students-1.jpeg)
 
 ---
 
 # Core Goal
 
-> Bootstrapping teachers with hardware knowledge  
-from **Ohm’s Law → Microcontrollers**
+> Bootstrapping students (and teachers) with hardware knowledge from **Ohm's Law → Microcontrollers**
 
 ---
 
@@ -71,13 +70,19 @@ from **Ohm’s Law → Microcontrollers**
   - Computer Science
   - Electrical Engineering
   - Computer Engineering
+  - Physics
+
+![bg right](assets/phone.jpeg)
 
 ---
 
 # Why Now?
 
-- Large language models have made software easier/cheaper to create
+- **The shift is happening:** Software → **Software + Hardware**
+- AI writes code → but struggles with the physical world
 - Hardware is becoming a bottleneck
+
+![bg right](assets/optimus.jpg)
 
 ---
 
@@ -89,9 +94,17 @@ from **Ohm’s Law → Microcontrollers**
 
 
 > "The biggest beneficiaries of vibecoding are going to be the shape rotators, not the wordcels."
-> — Palmer Luckey, Founder, Occulus + Andurill
+> — Palmer Luckey, Founder, Oculus + Anduril
 > [Source](https://x.com/a16z/status/2026348550477722020?s=20)
 
+---
+
+# What hardware gives you as an *educator*
+
+- Deeper intuition (how systems actually work)  
+- Tangible results (light, sound, motion)  
+- Engaging learning for students
+- Lifelong skill
 
 ---
 
@@ -126,7 +139,7 @@ from **Ohm’s Law → Microcontrollers**
 
 # Tools & Skills
 
-- Microcontrollers (Arduino / Micro:bit)
+- Microcontrollers
 - Soldering
 - CAD / 3D Design
 - Bill of Materials (BOM)
@@ -136,11 +149,11 @@ from **Ohm’s Law → Microcontrollers**
 # Equipment You'll Use
 
 - Multimeter
-- Arduino
 - Breadboard
 - Jumper wires
 - Resistors, capacitors
 - Switches, buttons
+- Micro:bit
 - Soldering iron
 
 ---
@@ -153,7 +166,6 @@ from **Ohm’s Law → Microcontrollers**
 - Transistor toggle switch
 - Multivibrator circuit
 - 555 timer circuits
-- Counter circuits (4026B)
 
 ---
 
@@ -165,6 +177,8 @@ from **Ohm’s Law → Microcontrollers**
 - Multimeter
 - Breadboard + LED control
 
+![bg right](assets/breadboard2.jpeg)
+
 ---
 
 # Day 2 (6/24)
@@ -173,6 +187,8 @@ from **Ohm’s Law → Microcontrollers**
 - Buttons & switches
 - RC circuits
 - LED delay + fade
+
+![bg right](assets/rc-circuit.png)
 
 ---
 
@@ -183,33 +199,37 @@ from **Ohm’s Law → Microcontrollers**
 - Multivibrator circuit
 - Sound / speaker circuits
 
+![bg right](assets/breadboard.jpeg)
+
 ---
 
 # Day 4 (6/26)
 
 - Intro to microcontrollers (Micro:bit)
 
+![bg right](assets/bbc_microbit.jpg)
+
 ---
 
 # Day 5 (6/29)
 
 - Microcontroller projects
-- Interactive builds
 - Programming + hardware integration
 
 ---
 
 # Day 6 (6/30)
 
-- Soldering
+- Soldering (Weevil)
 - Moving from breadboard → permanent builds
+
+![bg right](assets/weevil.jpg)
 
 ---
 
 # Day 7 (7/1)
 
-- Project box design
-- CAD + 3D printing
+- Tinkercad + 3D printing
 - Final wrap-up
 
 ---
@@ -220,7 +240,6 @@ Each day:
 
 - Reflect on student experience
 - Adapt lessons to your classroom
-- Build your own lesson plans
 
 ---
 
@@ -241,8 +260,3 @@ Each day:
 ---
 
 # Questions?
-
-Let’s discuss:
-- Goals
-- Concerns
-- Logistics
