@@ -1,76 +1,248 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-transition: fade
+theme: default
 paginate: true
-_paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Summer CS Hardware Intensive  
+### Info Session  
+**Ian Heraty**
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+# Welcome 👋
+
+- 7-day summer intensive
+- Focus: **Computer Hardware + Electronics**
+- Designed for **high school teachers**
+- Hands-on, project-based learning
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+# Quick Question
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+## What do you hope to get out of this intensive?
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+- Learn electronics fundamentals?
+- Build confidence with hardware?
+- Bring projects into your classroom?
+- Something else?
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+# Structure of Each Day
 
-## **[Netlify](https://www.netlify.com/)**
+**Morning (8:30 – 12:00)**
+*Co-learning with students*
+- Lecture
+- Hands-on projects
 
-#### Ready to write & host your deck!
+**Lunch (12:00 – 1:00)**
 
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+**Afternoon (1:00 – 2:00)**
+*Educators*
+- Reflection + pedagogy
+- Adapting for your classroom
 
 ---
 
-### <!--fit--> :ok_hand:
+# Pedagogical Approach
+
+- Learning by **discovery**
+- Build intuition through **projects**
+- Reflect on:
+  - What worked?
+  - What confused students?
+  - How to adapt lessons
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Core Goal
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+> Bootstrapping teachers with hardware knowledge  
+from **Ohm’s Law → Microcontrollers**
 
-https://github.com/yhatt/marp-cli-example
+---
+
+# Why Hardware?
+
+- Growing importance in STEM
+- Bridges:
+  - Computer Science
+  - Electrical Engineering
+  - Computer Engineering
+
+---
+
+# Why Now?
+
+- Large language models have made software easier/cheaper to create
+- Hardware is becoming a bottleneck
+
+---
+
+> "Over the next 25 years, most of the money will be made in hardware"
+> - Shaun Maguire, Partner, Sequoia
+> [Source](https://x.com/tbpn/status/2042981124641820943?s=20)
+
+---
+
+
+> "The biggest beneficiaries of vibecoding are going to be the shape rotators, not the wordcels."
+> — Palmer Luckey, Founder, Occulus + Andurill
+> [Source](https://x.com/a16z/status/2026348550477722020?s=20)
+
+
+---
+
+# Learning Goals
+
+- What is electricity?
+- Voltage (V), Current (I), Resistance (R)
+- Ohm's Law
+- Breadboards & circuits
+- Multimeter usage
+
+---
+
+# Components You'll Learn
+
+- Resistors
+- Capacitors
+- Diodes
+- Potentiometers
+- Transistors
+
+---
+
+# Systems & Concepts
+
+- Logic & Binary
+- 555 Timer
+- Decade Counters
+- Signals & pulses
+
+---
+
+# Tools & Skills
+
+- Microcontrollers (Arduino / Micro:bit)
+- Soldering
+- CAD / 3D Design
+- Bill of Materials (BOM)
+
+---
+
+# Equipment You'll Use
+
+- Multimeter
+- Arduino
+- Breadboard
+- Jumper wires
+- Resistors, capacitors
+- Switches, buttons
+- Soldering iron
+
+---
+
+# Example Projects
+
+- LED brightness control
+- Variable resistance circuit
+- LED delay + fade (RC circuit)
+- Transistor toggle switch
+- Multivibrator circuit
+- 555 timer circuits
+- Counter circuits (4026B)
+
+---
+
+# Weekly Schedule Overview
+
+### Day 1 (6/23)
+- Electricity basics
+- Ohm's Law
+- Multimeter
+- Breadboard + LED control
+
+---
+
+# Day 2 (6/24)
+
+- Capacitors
+- Buttons & switches
+- RC circuits
+- LED delay + fade
+
+---
+
+# Day 3 (6/25)
+
+- Transistors
+- Logic gates
+- Multivibrator circuit
+- Sound / speaker circuits
+
+---
+
+# Day 4 (6/26)
+
+- Intro to microcontrollers (Micro:bit)
+
+---
+
+# Day 5 (6/29)
+
+- Microcontroller projects
+- Interactive builds
+- Programming + hardware integration
+
+---
+
+# Day 6 (6/30)
+
+- Soldering
+- Moving from breadboard → permanent builds
+
+---
+
+# Day 7 (7/1)
+
+- Project box design
+- CAD + 3D printing
+- Final wrap-up
+
+---
+
+# Afternoon Sessions
+
+Each day:
+
+- Reflect on student experience
+- Adapt lessons to your classroom
+- Build your own lesson plans
+
+---
+
+# Expectations
+
+- Ask questions
+- Experiment freely
+- Embrace mistakes
+- Collaborate
+
+---
+
+# Some Homework
+
+- Read [*Make: Electronics* (Charles Platt)](https://electricalconnects.com/frontend/images/free_items/make-electronics-second-edition-by-charles-platt.pdf)
+- Sign up for [Tinkercad](https://www.tinkercad.com)
+
+---
+
+# Questions?
+
+Let’s discuss:
+- Goals
+- Concerns
+- Logistics
