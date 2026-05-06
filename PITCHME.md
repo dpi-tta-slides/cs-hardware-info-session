@@ -58,6 +58,17 @@ Ian Heraty
 
 ---
 
+# Location
+
+UIC
+Women in Engineering Programs (WIEP) Lounge
+SELE 2260
+842 W Taylor St
+Chicago, IL 60607
+
+
+---
+
 # Pedagogical Approach
 
 - Learning by **discovery**
