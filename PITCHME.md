@@ -6,7 +6,8 @@ paginate: true
 
 # Summer CS Hardware Intensive  
 ### Info Session  
-**Ian Heraty**
+Ian Heraty
+<ihera2@uillinois.edu>
 
 ---
 
@@ -17,7 +18,7 @@ paginate: true
 - Designed for **high school**
 - Hands-on, project-based learning
 
-![bg right](assets/multimeter-usage.jpeg)
+![bg right contain](assets/multimeter-usage.jpeg)
 
 ---
 
@@ -29,6 +30,15 @@ paginate: true
 - Build confidence with hardware?
 - Bring projects into your classroom?
 - Something else?
+
+---
+
+# About Me
+
+- Hi, my name is Ian
+- I am a software developer and electronics hobbyist
+
+![bg right contain](assets/profile.png)
 
 ---
 
@@ -53,13 +63,15 @@ paginate: true
 - Learning by **discovery**
 - Build intuition through **hands-on projects**
 
-![bg right](assets/students-1.jpeg)
+![bg right contain](assets/students-1.jpeg)
 
 ---
 
 # Core Goal
 
 > Bootstrapping students (and teachers) with hardware knowledge from **Ohm's Law → Microcontrollers**
+
+![bg right contain](assets/matrix.webp)
 
 ---
 
@@ -72,7 +84,7 @@ paginate: true
   - Computer Engineering
   - Physics
 
-![bg right](assets/phone.jpeg)
+![bg right contain](assets/phone.jpeg)
 
 ---
 
@@ -82,7 +94,7 @@ paginate: true
 - AI writes code → but struggles with the physical world
 - Hardware is becoming a bottleneck
 
-![bg right](assets/optimus.jpg)
+![bg right contain](assets/optimus.jpg)
 
 ---
 
@@ -104,21 +116,22 @@ paginate: true
 - Deeper intuition (how systems actually work)  
 - Tangible results (light, sound, motion)  
 - Engaging learning for students
-- Lifelong skill
+- Practical life skills
 
 ---
 
 # Learning Goals
 
-- What is electricity?
-- Voltage (V), Current (I), Resistance (R)
 - Ohm's Law
 - Breadboards & circuits
-- Multimeter usage
+- Measuring voltage, current, resistance, and continuity
+- Microcontrollers (Micro:bit)
+- Soldering
+- 3D Design
 
 ---
 
-# Components You'll Learn
+<!-- # Components You'll Learn
 
 - Resistors
 - Capacitors
@@ -167,7 +180,7 @@ paginate: true
 - Multivibrator circuit
 - 555 timer circuits
 
----
+--- -->
 
 # Weekly Schedule Overview
 
@@ -177,7 +190,7 @@ paginate: true
 - Multimeter
 - Breadboard + LED control
 
-![bg right](assets/breadboard2.jpeg)
+![bg right contain](assets/breadboard2.jpeg)
 
 ---
 
@@ -188,7 +201,7 @@ paginate: true
 - RC circuits
 - LED delay + fade
 
-![bg right](assets/rc-circuit.png)
+![bg right contain](assets/rc-circuit.png)
 
 ---
 
@@ -199,7 +212,7 @@ paginate: true
 - Multivibrator circuit
 - Sound / speaker circuits
 
-![bg right](assets/breadboard.jpeg)
+![bg right contain](assets/breadboard.jpeg)
 
 ---
 
@@ -207,7 +220,7 @@ paginate: true
 
 - Intro to microcontrollers (Micro:bit)
 
-![bg right](assets/bbc_microbit.jpg)
+![bg right contain](assets/bbc_microbit.jpg)
 
 ---
 
@@ -216,6 +229,8 @@ paginate: true
 - Microcontroller projects
 - Programming + hardware integration
 
+![bg right contain](assets/wires.jpeg)
+
 ---
 
 # Day 6 (6/30)
@@ -223,7 +238,7 @@ paginate: true
 - Soldering (Weevil)
 - Moving from breadboard → permanent builds
 
-![bg right](assets/weevil.jpg)
+![bg right contain](assets/weevil.jpg)
 
 ---
 
@@ -231,6 +246,8 @@ paginate: true
 
 - Tinkercad + 3D printing
 - Final wrap-up
+
+![bg right contain](assets/3d-printing.jpeg)
 
 ---
 
