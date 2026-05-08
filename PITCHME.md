@@ -131,6 +131,14 @@ Chicago, IL 60607
 
 ---
 
+# Will it be difficult?
+
+- Assume you're beginning with no prior knowledge
+- Theory kept to a minimum
+- Only math you'll need will be addition, subtraction, multiplication, and division
+
+---
+
 # Learning Goals
 
 - Ohm's Law
