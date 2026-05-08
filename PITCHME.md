@@ -139,6 +139,8 @@ Chicago, IL 60607
 - Engaging learning for students
 - Practical life skills
 
+![bg right contain](assets/students2.jpeg)
+
 ---
 
 # Learning Goals
@@ -146,7 +148,7 @@ Chicago, IL 60607
 - Ohm's Law
 - Breadboards & circuits
 - Measuring voltage, current, resistance, and continuity
-- Microcontrollers (Micro:bit)
+- Microcontrollers (Micro:bit + Arduino)
 - Soldering
 - 3D Design
 
