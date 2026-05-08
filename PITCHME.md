@@ -33,12 +33,22 @@ Ian Heraty
 
 ---
 
-# About Me
+# Instructor
 
-- Hi, my name is Ian
+- Hi, my name is Ian Heraty
 - I am a software developer and electronics hobbyist
 
-![bg right contain](assets/profile.png)
+![bg right contain](assets/ian.png)
+
+---
+
+# Teaching Assistant
+
+- An Luu
+- UIC Electrical Engineering undergraduate assistant
+- Enjoys swimming, jogging, and playing board games
+
+![bg right contain](assets/an.png)
 
 ---
 
@@ -80,7 +90,7 @@ Chicago, IL 60607
 
 # Core Goal
 
-> Bootstrapping students (and teachers) with hardware knowledge from **Ohm's Law → Microcontrollers**
+> Bootstrapping students (and teachers) with hardware knowledge from **Ohm's Law → Microcontrollers → Full Projects**
 
 ![bg right contain](assets/matrix.webp)
 
@@ -129,6 +139,8 @@ Chicago, IL 60607
 - Engaging learning for students
 - Practical life skills
 
+![bg right contain](assets/students2.jpeg)
+
 ---
 
 # Will it be difficult?
@@ -144,7 +156,7 @@ Chicago, IL 60607
 - Ohm's Law
 - Breadboards & circuits
 - Measuring voltage, current, resistance, and continuity
-- Microcontrollers (Micro:bit)
+- Microcontrollers (Micro:bit + Arduino)
 - Soldering
 - 3D Design
 
@@ -219,6 +231,7 @@ Chicago, IL 60607
 - Buttons & switches
 - RC circuits
 - LED delay + fade
+- Troubleshooting
 
 ![bg right contain](assets/rc-circuit.png)
 
@@ -245,7 +258,7 @@ Chicago, IL 60607
 
 # Day 5 (6/29)
 
-- Microcontroller projects
+- Microcontroller projects (Arduino)
 - Programming + hardware integration
 
 ![bg right contain](assets/wires.jpeg)
