@@ -57,7 +57,7 @@ Ian Heraty
 **Morning (8:30 – 12:00)**
 *Co-learning with students*
 - Lecture
-- Hands-on projects
+- Hands-on labs
 
 **Lunch (12:00 – 1:00)**
 
@@ -258,7 +258,7 @@ Chicago, IL 60607
 
 # Day 5 (6/29)
 
-- Microcontroller projects (Arduino)
+- Microcontrollers (Arduino)
 - Programming + hardware integration
 
 ![bg right contain](assets/wires.jpeg)
