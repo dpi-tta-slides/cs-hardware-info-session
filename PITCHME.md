@@ -277,7 +277,7 @@ Chicago, IL 60607
 # Day 7 (7/1)
 
 - Tinkercad + 3D printing
-- Final wrap-up
+- Wrap-up and next steps
 
 ![bg right contain](assets/3d-printing.jpeg)
 
