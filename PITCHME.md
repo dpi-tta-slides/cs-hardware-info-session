@@ -68,7 +68,15 @@ Ian Heraty
 
 ---
 
-# Location
+# Locations
+
+## Main
+
+Discovery Partners Institute
+200 S Wacker Dr
+Chicago, IL 60606
+
+## 1 Day Workshop
 
 UIC
 Women in Engineering Programs (WIEP) Lounge
