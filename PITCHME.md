@@ -226,13 +226,13 @@ Chicago, IL 60607
 
 ## Measure
 
-- Electricity basics
 - Ohm's Law
-- Multimeter
-- Breadboard + LED control
+- Using a multimeter
+- Breadboard
+- Resistor LED Circuit
 - Buttons & switches
 
-![bg right contain](assets/breadboard2.jpeg)
+![bg right contain](assets/resistor-led-breadboard.jpeg)
 
 ---
 
@@ -243,7 +243,7 @@ Chicago, IL 60607
 - Transistors
 - Logic gates
 
-![bg right contain](assets/breadboard.jpeg)
+![bg right contain](assets/nand-gate-breadboard.png)
 
 ---
 
@@ -256,6 +256,7 @@ Chicago, IL 60607
 - LED delay + fade
 - Multivibrator circuit
 
+![bg right contain](assets/rc-circuit.png)
 
 ---
 
@@ -267,7 +268,7 @@ Chicago, IL 60607
 - Oscillators
 - Electronic sound circuits
 
-![bg right contain](assets/rc-circuit.png)
+![bg right contain](assets/demo-reading-wave.gif)
 
 ---
 
@@ -287,7 +288,7 @@ Chicago, IL 60607
 ## Join
 
 - Soldering (Weevil)
-- Moving from breadboard → permanent builds
+- Moving from breadboard to permanent builds
 
 ![bg right contain](assets/weevil.jpg)
 
