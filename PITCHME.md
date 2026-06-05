@@ -166,7 +166,6 @@ Chicago, IL 60607
 - Measuring voltage, current, resistance, and continuity
 - Microcontrollers (Micro:bit + Arduino)
 - Soldering
-- 3D Design
 
 ---
 
@@ -221,13 +220,17 @@ Chicago, IL 60607
 
 --- -->
 
-# Weekly Schedule Overview
+<!-- # Weekly Schedule Overview -->
 
-### Day 1 (6/23)
+# Day 1 (6/23)
+
+## Measure
+
 - Electricity basics
 - Ohm's Law
 - Multimeter
 - Breadboard + LED control
+- Buttons & switches
 
 ![bg right contain](assets/breadboard2.jpeg)
 
@@ -235,45 +238,53 @@ Chicago, IL 60607
 
 # Day 2 (6/24)
 
-- Capacitors
-- Buttons & switches
-- RC circuits
-- LED delay + fade
-- Troubleshooting
-
-![bg right contain](assets/rc-circuit.png)
-
----
-
-# Day 3 (6/25)
+## Flow
 
 - Transistors
 - Logic gates
-- Multivibrator circuit
-- Sound / speaker circuits
 
 ![bg right contain](assets/breadboard.jpeg)
 
 ---
 
+# Day 3 (6/25)
+
+## Time
+
+- Capacitors
+- RC circuits
+- LED delay + fade
+- Multivibrator circuit
+
+
+---
+
 # Day 4 (6/26)
 
-- Intro to microcontrollers (Micro:bit)
+## Wave
 
-![bg right contain](assets/bbc_microbit.jpg)
+- Integrated Circuits (IC)
+- Oscillators
+- Electronic sound circuits
+
+![bg right contain](assets/rc-circuit.png)
 
 ---
 
 # Day 5 (6/29)
 
-- Microcontrollers (Arduino)
+## Control
+
+- Intro to microcontrollers (Micro:bit)
 - Programming + hardware integration
 
-![bg right contain](assets/wires.jpeg)
+![bg right contain](assets/bbc_microbit.jpg)
 
 ---
 
 # Day 6 (6/30)
+
+## Join
 
 - Soldering (Weevil)
 - Moving from breadboard → permanent builds
@@ -284,7 +295,10 @@ Chicago, IL 60607
 
 # Day 7 (7/1)
 
-- Tinkercad + 3D printing
+## Create
+
+- Prototyping
+- Putting it all together
 - Wrap-up and next steps
 
 ![bg right contain](assets/3d-printing.jpeg)
