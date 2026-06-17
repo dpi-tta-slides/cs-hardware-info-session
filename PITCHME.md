@@ -4,8 +4,10 @@ theme: default
 paginate: true
 ---
 
-# Summer CS Hardware Intensive  
-### Info Session  
+# Summer CS Hardware Intensive
+
+## Info Session
+
 Ian Heraty
 <ihera2@uillinois.edu>
 
@@ -56,6 +58,7 @@ Ian Heraty
 
 **Morning (8:30 – 12:00)**
 *Co-learning with students*
+
 - Lecture
 - Hands-on labs
 
@@ -63,6 +66,7 @@ Ian Heraty
 
 **Afternoon (1:00 – 2:00)**
 *Educators*
+
 - Reflection + pedagogy
 - Adapting for your classroom
 
@@ -83,7 +87,6 @@ Women in Engineering Programs (WIEP) Lounge
 SELE 2260
 842 W Taylor St
 Chicago, IL 60607
-
 
 ---
 
@@ -128,11 +131,11 @@ Chicago, IL 60607
 ---
 
 > "Over the next 25 years, most of the money will be made in hardware"
+>
 > - Shaun Maguire, Partner, Sequoia
 > [Source](https://x.com/tbpn/status/2042981124641820943?s=20)
 
 ---
-
 
 > "The biggest beneficiaries of vibecoding are going to be the shape rotators, not the wordcels."
 > — Palmer Luckey, Founder, Oculus + Anduril
@@ -328,6 +331,14 @@ Each day:
 
 - Read [*Make: Electronics* (Charles Platt)](https://electricalconnects.com/frontend/images/free_items/make-electronics-second-edition-by-charles-platt.pdf)
 - Sign up for [Tinkercad](https://www.tinkercad.com)
+
+---
+
+# Join the Chat 💬
+
+<https://discord.gg/pBPrXzp8W>
+
+![bg right contain](assets/discord-qr-code.jpg)
 
 ---
 
